@@ -1321,7 +1321,6 @@
             "riskFactors": {
               "Attack complexity: low": {},
               "Attack vector: network": {},
-              "Medium severity": {},
               "Recent vulnerability": {}
             },
             "link": "https://people.canonical.com/~ubuntu-security/cve/2019/CVE-2019-9169",
