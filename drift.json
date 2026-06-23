@@ -1234,7 +1234,8 @@
             "vecStr": "CVSS:3.0/AV:L/AC:L/PR:L/UI:N/S:U/C:L/I:L/A:L",
             "exploit": "",
             "riskFactors": {
-              "Attack complexity: low": {}
+              "Attack complexity: low": {},
+              "Medium severity": {}
             },
             "link": "https://people.canonical.com/~ubuntu-security/cve/2016/CVE-2016-10739",
             "type": "image",
