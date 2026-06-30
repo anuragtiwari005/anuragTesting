@@ -1176,7 +1176,6 @@
             "riskFactors": {
               "Attack complexity: low": {},
               "Attack vector: network": {},
-              "Medium severity": {},
               "Recent vulnerability": {}
             },
             "link": "https://people.canonical.com/~ubuntu-security/cve/2018/CVE-2018-19591",
